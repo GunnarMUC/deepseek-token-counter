@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)n
+
 # DeepSeek Token Counter
 
 **Know exactly what your prompts cost — before you send them.**
