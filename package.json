@@ -107,5 +107,8 @@
   },
   "dependencies": {
     "@huggingface/tokenizers": "^0.1.3"
-  }
+  },
+  "contributors": [
+    "Gunnar M\u00fcller"
+  ]
 }
